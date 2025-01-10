@@ -1,5 +1,5 @@
 # Hello, I'm LI-SHENG
-<a href="www.linkedin.com/in/ong-li-sheng"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ong-li-sheng"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a current undergraduate at the National University of Singapore. I study political science, history, and cybersecurity because I have a profound interest in technology and a dedication to solving complex problems that plague us.
 
